@@ -10,4 +10,17 @@ Steps to run this project:
 
 http://localhost:3000/aulas
 
+ {
+        "nome": "POO",
+        "descricao": "Herança ",
+        "link": "http://localhost/test",
+        "modulo": {
+            "id": 1
+        }
+    }
+
 http://localhost:3000/modulo
+
+  {
+        "descricao": "POO"
+    }
